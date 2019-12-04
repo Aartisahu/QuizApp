@@ -1,0 +1,15 @@
+.AppNew-p {
+  text-align: center;
+  padding-top: 10px;
+  background:lightpink
+}
+
+
+
+.App-link {
+  color: #09d3ac;
+}
+button:active{
+  background:skyblue;
+  text-align: center;
+  }
